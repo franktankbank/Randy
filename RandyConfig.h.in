@@ -1,0 +1,3 @@
+#define Randy_VERSION_MAJOR @Randy_VERSION_MAJOR@
+#define Randy_VERSION_MINOR @Randy_VERSION_MINOR@
+#define Randy_TARGET_FILE "randy@CMAKE_EXECUTABLE_SUFFIX@"
