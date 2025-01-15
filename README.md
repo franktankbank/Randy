@@ -1,6 +1,6 @@
 # Randy
 
-Cross Platform tool that can generate many random things.
+A tool to generate many random numbers
 
 ## Badges
 
