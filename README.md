@@ -1,3 +1,5 @@
+> **WARNING**: This repository is archived...
+
 # Randy
 
 A tool to generate many random numbers
